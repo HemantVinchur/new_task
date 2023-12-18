@@ -1,2 +1,4 @@
 {"level":"info","message":"Controller : login, Request-Body : {\"email\":\"hemant@gmail.com\",\"password\":\"admin@123\"}"}
 {"level":"info","message":"Service : adminLogin, Request-Body : {\"email\":\"hemant@gmail.com\",\"password\":\"admin@123\"}"}
+{"level":"info","message":"Controller : login, Request-Body : {\"email\":\"hemant@gmail.com\",\"password\":\"admin@123\"}"}
+{"level":"info","message":"Service : adminLogin, Request-Body : {\"email\":\"hemant@gmail.com\",\"password\":\"admin@123\"}"}
